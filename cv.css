@@ -1,0 +1,126 @@
+.y1{ 
+ 
+ width: 100%;
+ font-weight: bold;
+ height: 50px;
+ background-image: url(business-792113_1920.jpg);
+ background-size:cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ height:500px;
+
+}
+.y1 h1{
+    float : left;
+    
+    
+}
+.Z1{
+    
+    width: 100% ;
+    font-weight:bold;
+    height: 50px;
+
+}
+
+.xs li{
+    
+    float: right;
+    display: inline;
+    color: blanchedalmond;
+
+   margin-right: 20px;
+   
+}
+.xs li:hover{
+    background-image: url(business-792113_1920.jpg);
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  border-radius: 2px ;
+  border: 2px solid white;
+}
+img {
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top:5%;
+  }
+  img:hover {
+    box-shadow: 0 0 2px 3px rgba(0, 30, 186, 0.5);
+  }
+   
+  .tablex tr  {
+    
+  text-align: left;
+  
+  }
+  .padd{
+    margin-left: 45%;
+    margin-bottom:100%;
+  }
+  .h1 {
+    width: 5px;
+    height: 5px;
+    background:blue;
+    -webkit-transition: width 3s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+    transition-delay: 1s;
+    
+  }
+  
+  .h1:hover {
+    width: 450px;
+  }
+  .h7 {
+    width: 5px;
+    height: 5px;
+    background:blue;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+    transition-delay: 1s;
+    
+  }
+  
+  .h7:hover {
+    width: 400px;
+  }
+  .h8 {
+    width: 5px;
+    height: 5px;
+    background:blue;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s; 
+    transition-delay:1s;
+    
+  }
+  
+  .h8:hover {
+    width: 300px;
+
+  }
+
+  .pk{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    word-spacing:   400px;
+  }
+  .pc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    word-spacing: 320px;
+  }
+  .px{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    word-spacing: 200px;
+  }
+  .kj{
+    border: 1px solid black;
+   
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: bisque;
+  }
+  
+  
